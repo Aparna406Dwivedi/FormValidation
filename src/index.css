@@ -1,0 +1,37 @@
+body {
+  --bs-body-font-family: var(--bs-font-monospace);
+  --bs-body-line-height: 1.4;
+  --bs-body-bg: var(--bs-gray-100);
+  padding: 10px 510px;
+  background-image: url(https://learn.canva.com/wp-content/uploads/2020/02/removing-background-images_Unsplash.jpeg);
+ 
+    background-size: cover;
+    height: 100vh;
+}
+.button {
+  background-color: #23ab0b;
+  border: none;
+  color: white;
+  padding: 10px 40px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.text {
+  border: none;
+  padding: 5px 0px;
+  font-size: 20px;
+  text-align: center;
+}
+.text1 {
+  padding: 5px 0px;
+  font-size: 15px;
+  text-align: left;
+}
+.border{
+  border:5px solid black;
+  width: 500px;
+  height:650px;
+  text-align: center;
+  background-color: rgb(168, 215, 227);
+}
